@@ -33,7 +33,6 @@
 ;; ===================================
 (setq inhibit-startup-message t)    ;; Hide the startup message
 (load-theme 'cyberpunk t)            ;; Load cyberpunk theme
-(global-linum-mode t)               ;; Enable line numbers globally
 (elpy-enable)
 ;; User-Defined init.el ends here
 (custom-set-variables
