@@ -1,4 +1,3 @@
-echo off
 whoami /all > out.txt 
 echo %username% >> out.txt
 net user >> out.txt
